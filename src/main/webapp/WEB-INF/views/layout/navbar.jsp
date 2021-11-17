@@ -45,6 +45,7 @@
                             <a class="dropdown-item" href="task-list">Task List</a>
                             <a class="dropdown-item" href="task-progress">Task Progess</a>
                             <a class="dropdown-item" href="task-statistics">Task Statistics</a>
+                            <a class="dropdown-item" href="task-statistics">Check Merge and Pull Request</a>
                         </div>
                     </li>
                 </ul>
